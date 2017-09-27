@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SplashActivity</string>
+
+    <string name="facebook_name">facebook</string>
+    <string name="buttonLogin">Log in</string>
+    <string name="editEmail">Email</string>
+    <string name="editPassword">Password</string>
+    <string name="text_forgot_password"><u>Forgot Password?</u></string>
+    <string name="welcome_home">Welcome Home</string>
+    <string name="buttonLogout">Log out</string>
+</resources>
