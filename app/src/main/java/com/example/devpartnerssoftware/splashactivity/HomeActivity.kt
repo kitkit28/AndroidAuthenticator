@@ -25,5 +25,6 @@ class HomeActivity : AppCompatActivity() {
         SessionStore().clearEmail(this)
 
         startActivity<SplashActivity>()
+        finish()
     }
 }
